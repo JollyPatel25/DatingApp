@@ -485,4 +485,5 @@ $RECYCLE.BIN/
 
 #Manually added Files
 appsettings.json
+appsettings.Development.json
 dating.db*
